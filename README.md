@@ -6,7 +6,7 @@ Download & Unzip Files To Desktop
 cd Desktop
 cd Cmd-Backdoor-master
 python3 Cmd-Backdoor-Listener.py
-python3 Backdoor-Virus.pyw - Backdoor will run in background!!!
+python Backdoor-Virus.pyw - Backdoor will run in background!!!
 ```
 ### Usage On Linux:
 ```
