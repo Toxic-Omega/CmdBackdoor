@@ -12,8 +12,8 @@ python3 Backdoor-Virus.pyw - Backdoor will run in background!!!
 ```
 git clone https://github.com/Toxic-Omega/Cmd-Backdoor
 cd Cmd-Backdoor
-python3 Cmd-Backdoor-Listener.py
-python3 Backdoor-Virus.pyw - Backdoor will run in background!!!
+python Cmd-Backdoor-Listener.py
+python Backdoor-Virus.pyw - Backdoor will run in background!!!
 ```
 ### Screenshot
 <br>
