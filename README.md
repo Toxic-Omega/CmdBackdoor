@@ -21,3 +21,8 @@ python Backdoor-Virus.pyw - Backdoor will run in background!!!
 <img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image.png"/>
 </p>
 <br>
+<br>
+<p align="center">
+<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image-2.png"/>
+</p>
+<br>
