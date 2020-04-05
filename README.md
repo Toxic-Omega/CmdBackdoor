@@ -13,7 +13,7 @@ python Backdoor-Virus.py
 git clone https://github.com/Toxic-Omega/Cmd-Backdoor
 cd Cmd-Backdoor
 python Cmd-Backdoor-Listener.py
-python Backdoor-Virus.pyw
+python Backdoor-Virus.py
 ```
 ### Screenshot
 <br>
