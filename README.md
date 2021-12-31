@@ -8,7 +8,7 @@ python CmdBackdoor.py
 ```
 ### Usage On Linux:
 ```
-git clone https://github.com/Toxic-Omega/Cmd-Backdoor
+git clone https://github.com/Toxic-Omega/CmdBackdoor
 cd Cmd-Backdoor
 python CmdBackdoor.py
 ```
