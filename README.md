@@ -15,11 +15,6 @@ python CmdBackdoor.py
 ### Screenshot
 <br>
 <p align="center">
-<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image1.png"/>
-</p>
-<br>
-<br>
-<p align="center">
-<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image2.png"/>
+<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image.png"/>
 </p>
 <br>
