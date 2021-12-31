@@ -2,27 +2,24 @@
 
 ### Usage On Windows:
 ```
-Download & Unzip Files To Desktop
-cd Desktop
+Download & Unzip Files
 cd Cmd-Backdoor-master
-python3 Cmd-Backdoor-Listener.py
-python Backdoor-Virus.py
+python CmdBackdoor.py
 ```
 ### Usage On Linux:
 ```
 git clone https://github.com/Toxic-Omega/Cmd-Backdoor
 cd Cmd-Backdoor
-python Cmd-Backdoor-Listener.py
-python Backdoor-Virus.py
+python CmdBackdoor.py
 ```
 ### Screenshot
 <br>
 <p align="center">
-<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image.png"/>
+<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image1.png"/>
 </p>
 <br>
 <br>
 <p align="center">
-<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image-2.png"/>
+<img width="90%" src="https://github.com/Toxic-Omega/Cmd-Backdoor/blob/master/image2.png"/>
 </p>
 <br>
